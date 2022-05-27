@@ -7,6 +7,7 @@ const important = () => {
   const three = 3;
   const feature = 4;
   const five = 5;
+  const seven = 7;
 
 }
 const A = true;
