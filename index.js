@@ -10,6 +10,8 @@ function fea () {
 newFeature();
 }
 
+const bugfix2 = true;
+
 const bugfix = function(bug) {
   return bug + 2
 }
