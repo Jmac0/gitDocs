@@ -3,6 +3,7 @@
 const important = () => {
 
   const one = 1;
+  const three = 3;
 
 }
 const A = true;
