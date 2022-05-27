@@ -1,5 +1,10 @@
 // feature comment
 // production comment
+const important = () => {
+
+  const one = 1;
+
+}
 const A = true;
 const feature = 'feature';
 const newLine = 'yay';
