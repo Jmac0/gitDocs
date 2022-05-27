@@ -1,3 +1,4 @@
+// feature comment
 const A = true;
 const feature = 'feature';
 const newLine = 'yay';
