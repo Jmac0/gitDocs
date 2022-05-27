@@ -12,6 +12,11 @@ newFeature();
 
 const bugfix2 = true;
 
+const features = () => {
+  let counter = 0;
+  return () => counter++
+}
+
 const bugfix = function(bug) {
   return bug + 2
 }
