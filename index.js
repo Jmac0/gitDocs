@@ -3,7 +3,7 @@
 const important = () => {
 
   const one = 1;
-
+  const two = 2;
 }
 const A = true;
 const feature = 'feature';
