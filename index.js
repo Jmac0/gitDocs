@@ -1,3 +1,4 @@
+// feature comment
 // production comment
 const A = true;
 const feature = 'feature';
