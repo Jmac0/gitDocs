@@ -10,6 +10,7 @@ const important = () => {
   const six = 6;
   const seven = 7;
   const eight = 8;
+  const newLine = 9;
 
 }
 const A = true;
