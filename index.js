@@ -151,7 +151,7 @@ function getStudentBiId(studentId){
 
  // return studentRecords.find(record => record.id === studentId)
 }
-
+/////// some comment ////
 function printRecords(recordIds) {
   // student id is passed into getStudentId
 const results = recordIds.map(getStudentBiId);
