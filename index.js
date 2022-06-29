@@ -195,7 +195,7 @@ var studentRecords = [
   { id: 709, name: "Brian", paid: false, },
   { id: 105, name: "Henry", paid: false, },
   { id: 502, name: "Mary", paid: true, },
-  { id: 664, name: "Bob", paid: false, },
+  { id: 664, name: "Bobbie", paid: false, },
   { id: 250, name: "Peter", paid: true, },
   { id: 375, name: "Sarah", paid: true, },
   { id: 867, name: "Greg", paid: false, },
