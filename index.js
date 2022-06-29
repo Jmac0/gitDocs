@@ -190,7 +190,7 @@ var currentEnrollment = [ 410, 105, 664, 375 ];
 
 var studentRecords = [
   { id: 313, name: "Frank", paid: true, },
-  { id: 315, name: "Franko Manko", paid: true, },
+
   { id: 410, name: "Suzy", paid: true, },
   { id: 709, name: "Brian", paid: false, },
   { id: 105, name: "Henry", paid: false, },
