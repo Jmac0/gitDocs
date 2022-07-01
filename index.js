@@ -192,7 +192,7 @@ var studentRecords = [
   { id: 313, name: "Frank", paid: true, },
 
   { id: 410, name: "Suzy", paid: true, aggrg: 8, fil: 2},
-  { id: 709, name: "Briafn", paid: false, },
+  { id: 709, name: "Briafniii", paid: false, },
   { id: 105, name: "Henry", paid: false, },
   { id: 502, name: "Mary", paid: true, },
   { id: 664, name: "Bobbie", paid: false, },
